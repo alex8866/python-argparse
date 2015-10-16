@@ -1,0 +1,13 @@
+Autoselected keyboard map en-us
+Connection established using SSL.
+ERROR: RDPSND: Extra RDPSND_NEGOTIATE in the middle of a session
+ERROR: SSL_read: 5 (Connection reset by peer)
+Disconnected due to network error, retrying to reconnect for 70 minutes.
+Connection established using SSL.
+Autoselected keyboard map en-us
+Connection established using SSL.
+Autoselected keyboard map en-us
+Connection established using SSL.
+ERROR: RDPSND: Extra RDPSND_NEGOTIATE in the middle of a session
+ERROR: RDPSND: Extra RDPSND_NEGOTIATE in the middle of a session
+/home/lkong/bin/rdes2: line 6: 24995 Terminated              rdesktop -d 24 192.168.122.63 -K -D -f -a 32 -r disk:MyDisk=/home/lkong/windows-share -r clipboard:PRIMARYCLIPBOARD -u kongll -p kongll1234
